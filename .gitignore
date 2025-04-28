@@ -1,0 +1,54 @@
+# Python字节码文件
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 虚拟环境
+venv/
+env/
+.venv/
+.env/
+
+# 分发/打包
+dist/
+build/
+*.egg-info/
+*.egg
+
+# 本地测试/缓存
+.pytest_cache/
+.coverage
+htmlcov/
+
+# IDE文件
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+.spyderproject
+.spyproject
+
+# 日志文件
+*.log
+logs/
+
+# 临时文件
+temp/
+tmp/
+
+# 课程数据文件
+# 取消注释以下行，如果您不想包含数据文件
+# data/course_outline*.md
+# data/course_outline_enriched*.json
+# data/course_version_mapping.json
+
+# 本地配置文件
+config.ini
+settings.json
+*.cfg
+
+# 系统文件
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini 
