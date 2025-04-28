@@ -9,6 +9,7 @@ env/
 .venv/
 .env/
 
+
 # 分发/打包
 dist/
 build/
@@ -52,3 +53,7 @@ settings.json
 Thumbs.db
 ehthumbs.db
 Desktop.ini 
+
+# 数据文件
+data/
+
